@@ -33,9 +33,9 @@ Done.
 
 ```
 root@user-africa-dev-pod:/opt/odc# pip install --extra-index-url="https://packages.dea.gadevs.ga" \
+odc-apps-cloud      odc-apps-dc-tools
 ```
 
-7.   odc-apps-cloud      odc-apps-dc-tools
 
 8.            Add the MetadataType and Product:
 

@@ -2,6 +2,23 @@
 study eo-datasets and indexing
 
 
+## Package Info
+
+https://packages.dea.gadevs.ga/
+
+```
+wget odc_apps_dc_tools-0.1.dev421+gf921129/odc/apps/dc_tools
+```
+
+- Includes index from tar code and a readme
+
+- more to come ...
+
+## Repos
+
+
+
+
 
 # WIP
 
